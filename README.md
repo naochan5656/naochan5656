@@ -5,7 +5,7 @@
 Free-spirited Server Engineer
 I build Discord bots with JavaScript and design Minecraft plugins with Java.
 
-##　My public repository
+## My public repository
 
 All my projects are developed privately.
 My repositories should contain nothing but a README.
