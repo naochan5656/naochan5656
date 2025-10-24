@@ -1,5 +1,6 @@
 ## 👏 Hi! I'm Nao.
 
+# About me
 <!--
 **naochan5656/naochan5656** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
