@@ -1,12 +1,12 @@
 ## 👏 Hi! I'm Nao.
 
-## About me
+## 📕About me
 
 Free-spirited Server Engineer
 
 I build Discord bots with JavaScript and design Minecraft plugins with Java.
 
-## My public repository
+## 🔍My public repository
 
 All my projects are developed privately.
 
@@ -14,9 +14,7 @@ My repositories should contain nothing but a README.
 
 I use GitHub for project management, not for publishing.
 
-## Contact Information
-
-mail: work[@]kitanonao.com
+## 📫tanonao.com
 
 Discord: naochan15
 
