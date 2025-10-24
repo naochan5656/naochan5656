@@ -3,7 +3,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=unity,blender)](https://skillicons.dev)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naochan5656&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naochan5656&theme=ambient_gradient&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📕About me
 
