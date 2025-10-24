@@ -14,7 +14,9 @@ My repositories should contain nothing but a README.
 
 I use GitHub for project management, not for publishing.
 
-## 📫tanonao.com
+## 📫Contact Info
+
+mail: work[@]kitanonao.com
 
 Discord: naochan15
 
